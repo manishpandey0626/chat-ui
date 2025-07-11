@@ -7,7 +7,7 @@ import ChatInput from '../../components/chat-input';
 import { v4 as uuidv4 } from 'uuid';
 
 const API_URL = 'http://localhost:8000/api/chatbot/request/v1';
-const USER_ID = 'manish.pandey3@soprasteria.com';
+const USER_ID = 'manish';
 const CONVERSATION_ID = 'c33eb7a0-a997-4ac8-b889-ed67478b4cb0';
 
 function ChatPageInner() {
